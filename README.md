@@ -1,2 +1,1 @@
-# lt
-woo yeah it's a lightning talk!
+# how to build (actual) things
